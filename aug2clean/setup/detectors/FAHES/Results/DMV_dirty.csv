@@ -1,0 +1,12 @@
+Table Name,Attribute Name,DMV,Frequency,Detecting Tool
+dirty,ZN,0.0,223,Rand
+dirty,INDUS,18.1,79,Rand
+dirty,CHAS,0.0,276,Rand
+dirty,AGE,100.0,25,Rand
+dirty,RAD,24.0,64,Rand
+dirty,TAX,666.0,78,Rand
+dirty,PTRATIO,21.2,6,Rand
+dirty,B,396.9,76,Rand
+dirty,CHAS,1.0,25,SYN
+dirty,NOX,0.4,4,SYN
+dirty,NOX,0.7,6,SYN
